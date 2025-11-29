@@ -16,4 +16,9 @@ int main() {
     // TODO: Ubah harga apel menjadi 6000
 
     // TODO: Print kembali total, apakah total belanja berubah?
+
+
+    // TODO: Buat variabel bertipe string bernama 'name' dengan value "Anya Forger"
+
+    // TODO: Print variabel 'name'
 }

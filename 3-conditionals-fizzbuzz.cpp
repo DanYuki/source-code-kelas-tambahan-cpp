@@ -7,4 +7,5 @@ int main() {
     // Jika user menginput angka yang dapat dibagi 3 maka print "Fizz"
     // Jika user menginput angka yang dapat dibagi 5 maka print "Buzz"
     // Jika user menginput angka yang dapat dibagi 3 dan 5 maka print "FizzBuzz"
+    // Jika user menginput angka yang tidak masuk semua kondisi diatas, maka print angkanya saja.
 }
